@@ -1,0 +1,10 @@
+.notification {
+  border:1px solid grey;
+  border-radius: 10px;
+  height: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  width: 90vw;
+}
